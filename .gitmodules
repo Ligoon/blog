@@ -1,0 +1,4 @@
+[submodule "jeff_blog/public"]
+	path = jeff_blog/public
+	url = https://github.com/Ligoon/ligoon.github.io.git
+	branch = main
